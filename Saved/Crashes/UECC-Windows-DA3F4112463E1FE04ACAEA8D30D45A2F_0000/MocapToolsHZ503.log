@@ -1,0 +1,1097 @@
+﻿Log file open, 07/26/22 14:20:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=19504)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MocapToolsHZ503
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-0"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-0+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\plugins\MocapToolsHZ503\MocapToolsHZ503.uproject -EnablePlugins="RemoteControlWebInterface"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1826] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 5800X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="72493cd5430a173011ccebb93eb403f5"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.277217
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-DA3F4112463E1FE04ACAEA8D30D45A2F
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin BlueprintFileUtils
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin LiveLink
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin Composure
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OpenColorIO
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OpenCVLensDistortion
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RiderLink
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AlembicHairImporter
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AppleProResMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaFrameworkUtilities
+LogPluginManager: Mounting Engine plugin MediaIOFramework
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ColorCorrectRegions
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryScripting
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin RemoteSession
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MoviePipelineMaskRenderPass
+LogPluginManager: Mounting Engine plugin MovieRenderPipeline
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin VirtualCamera
+LogPluginManager: Mounting Engine plugin VirtualProductionUtilities
+LogPluginManager: Mounting Engine plugin WebSocketNetworking
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin CameraCalibrationCore
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MultiUserTakes
+LogPluginManager: Mounting Engine plugin RemoteControl
+LogPluginManager: Mounting Engine plugin RemoteControlInterception
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin RemoteControlProtocolOSC
+LogPluginManager: Mounting Engine plugin RemoteControlWebInterface
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin OpenCV
+LogPluginManager: Mounting Engine plugin OSC
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SunPosition
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin VersatileEngineExtender
+LogPluginManager: Mounting Engine plugin VersatileLibrary
+LogPluginManager: Mounting Engine plugin VersatilePipeline
+LogPluginManager: Mounting Engine plugin VersatilePreviz
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin MultiUserClient
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin ARUtilities
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin ACLookdevTools
+LogPluginManager: Mounting Engine plugin SparseVolumetrics
+LogPluginManager: Mounting Engine plugin VersatileOverride
+LogPluginManager: Mounting Engine plugin ConcertSyncClient
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
+LogPluginManager: Mounting Engine plugin AppleARKitFaceSupport
+LogPluginManager: Mounting Engine plugin AppleARKit
+LogPluginManager: Mounting Engine plugin QTMConnect
+LogPluginManager: Mounting Engine plugin QTMConnectLiveLink
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/BlueprintFileUtils/Content/' mounted to '/BlueprintFileUtils/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Compositing/Composure/Content/' mounted to '/Composure/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Compositing/OpenColorIO/Content/' mounted to '/OpenColorIO/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Compositing/OpenCVLensDistortion/Content/' mounted to '/OpenCVLensDistortion/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaFrameworkUtilities/Content/' mounted to '/MediaFrameworkUtilities/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ColorCorrectRegions/Content/' mounted to '/ColorCorrectRegions/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryScripting/Content/' mounted to '/GeometryScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/RemoteSession/Content/' mounted to '/RemoteSession/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/MoviePipelineMaskRenderPass/Content/' mounted to '/MoviePipelineMaskRenderPass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/MovieRenderPipeline/Content/' mounted to '/MovieRenderPipeline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/VirtualCamera/Content/' mounted to '/VirtualCamera/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/VirtualProductionUtilities/Content/' mounted to '/VirtualProductionUtilities/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/CameraCalibrationCore/Content/' mounted to '/CameraCalibrationCore/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/MultiUserTakes/Content/' mounted to '/MultiUserTakes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/RemoteControl/Content/' mounted to '/RemoteControl/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/RemoteControlWebInterface/Content/' mounted to '/RemoteControlWebInterface/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenCV/Content/' mounted to '/OpenCV/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/SunPosition/Content/' mounted to '/SunPosition/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Versatile/VersatileLibrary/Content/' mounted to '/VersatileLibrary/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Versatile/VersatilePreviz/Content/' mounted to '/VersatilePreviz/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AR/ARUtilities/Content/' mounted to '/ARUtilities/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Versatile/AssetCenter/ACLookdevTools/Content/' mounted to '/ACLookdevTools/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Versatile/Marketplace/unreal-vdb/Content/' mounted to '/SparseVolumetrics/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content/' mounted to '/ConcertSyncClient/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AR/AppleAR/AppleARKitFaceSupport/Content/' mounted to '/AppleARKitFaceSupport/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AR/AppleAR/AppleARKit/Content/' mounted to '/AppleARKit/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Versatile/Marketplace/Driver/Qualisys/QTMConnectLiveLink/Content/' mounted to '/QTMConnectLiveLink/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogVerOverrideModule: Sandbox Mounted at: D:/UE_5.0_HZ/UE_5.0/Engine/Plugins/Versatile/LED/VersatileOverride/Sandbox
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-0
+LogInit: Engine Version: 5.0.3-0+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-0+++UE5+Release-5.0
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1826] (), CPU: AMD Ryzen 7 5800X 8-Core Processor             , GPU: NVIDIA GeForce RTX 3090
+LogInit: Compiled (64-bit): Jul 13 2022 17:25:35
+LogInit: Compiled with Visual C++: 19.29.30140.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EnablePlugins="RemoteControlWebInterface"
+LogInit: Base Directory: D:/UE_5.0_HZ/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.07.26-21.20.32:471][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.07.26-21.20.32:471][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.07.26-21.20.32:471][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.07.26-21.20.32:474][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.07.26-21.20.32:474][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.07.26-21.20.32:474][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.07.26-21.20.32:474][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.07.26-21.20.32:474][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.07.26-21.20.32:475][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.07.26-21.20.32:475][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.07.26-21.20.32:475][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.07.26-21.20.32:475][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.07.26-21.20.32:475][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.07.26-21.20.32:475][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.07.26-21.20.32:475][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.26-21.20.32:475][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.07.26-21.20.32:475][  0]LogHAL: Display: Platform has ~ 64 GB [68660658176 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.26-21.20.32:475][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.07.26-21.20.32:475][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.07.26-21.20.32:475][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.26-21.20.32:475][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.07.26-21.20.32:475][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/plugins/MocapToolsHZ503/Saved/Config/WindowsEditor/Editor.ini]
+[2022.07.26-21.20.32:475][  0]LogInit: Computer: VM21P062
+[2022.07.26-21.20.32:475][  0]LogInit: User: shouyu
+[2022.07.26-21.20.32:475][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.07.26-21.20.32:475][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.26-21.20.32:475][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2022.07.26-21.20.32:475][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.07.26-21.20.32:475][  0]LogMemory: Process Physical Memory: 375.08 MB used, 375.08 MB peak
+[2022.07.26-21.20.32:475][  0]LogMemory: Process Virtual Memory: 276.73 MB used, 276.73 MB peak
+[2022.07.26-21.20.32:475][  0]LogMemory: Physical Memory: 28420.39 MB used,  37059.52 MB free, 65479.91 MB total
+[2022.07.26-21.20.32:475][  0]LogMemory: Virtual Memory: 49846.21 MB used,  25361.70 MB free, 75207.91 MB total
+[2022.07.26-21.20.32:475][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.07.26-21.20.32:479][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.26-21.20.32:489][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.07.26-21.20.32:489][  0]LogInit: Using OS detected language (en-US).
+[2022.07.26-21.20.32:489][  0]LogInit: Using OS detected locale (en-US).
+[2022.07.26-21.20.32:491][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.07.26-21.20.32:600][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.26-21.20.32:611][  0]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2022.07.26-21.20.32:611][  0]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2022.07.26-21.20.32:611][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.07.26-21.20.32:611][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.07.26-21.20.32:612][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.07.26-21.20.32:612][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.07.26-21.20.32:612][  0]LogWindowsTextInputMethodSystem:   - Chinese (Simplified, China) - Microsoft Pinyin (TSF IME).
+[2022.07.26-21.20.32:612][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.07.26-21.20.32:612][  0]LogWindowsTextInputMethodSystem:   - English (Canada) - (Keyboard).
+[2022.07.26-21.20.32:612][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.07.26-21.20.32:624][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.26-21.20.32:624][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.26-21.20.32:761][  0]LogD3D12RHI: Aftermath initialized
+[2022.07.26-21.20.32:761][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.07.26-21.20.32:862][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3090 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.07.26-21.20.32:862][  0]LogD3D12RHI: Adapter has 24348MB of dedicated video memory, 0MB of dedicated system memory, and 32739MB of shared system memory, 2 output[s]
+[2022.07.26-21.20.32:866][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.07.26-21.20.32:866][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 32739MB of shared system memory, 0 output[s]
+[2022.07.26-21.20.32:866][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.07.26-21.20.32:867][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.07.26-21.20.32:872][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.07.26-21.20.32:872][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.07.26-21.20.32:931][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.07.26-21.20.32:975][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.07.26-21.20.32:981][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.07.26-21.20.32:992][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.07.26-21.20.33:007][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.07.26-21.20.33:007][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.07.26-21.20.33:032][  0]LogD3D12RHI:     GPU DeviceId: 0x2204 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.26-21.20.33:032][  0]LogWindows: Attached monitors:
+[2022.07.26-21.20.33:032][  0]LogWindows:     resolution: 3840x2160, work area: (3840, -14) -> (7680, 2066), device: '\\.\DISPLAY1'
+[2022.07.26-21.20.33:032][  0]LogWindows:     resolution: 3840x2160, work area: (0, 0) -> (3840, 2090), device: '\\.\DISPLAY2' [PRIMARY]
+[2022.07.26-21.20.33:032][  0]LogWindows: Found 2 attached monitors.
+[2022.07.26-21.20.33:032][  0]LogWindows: EnumDisplayDevices:
+[2022.07.26-21.20.33:032][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3090' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.07.26-21.20.33:032][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3090' (P:1 D:1), name: '\\.\DISPLAY2'
+[2022.07.26-21.20.33:032][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3090' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.07.26-21.20.33:032][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3090' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.07.26-21.20.33:032][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.07.26-21.20.33:032][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3090
+[2022.07.26-21.20.33:032][  0]LogD3D12RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2022.07.26-21.20.33:032][  0]LogD3D12RHI:      Driver Date: 6-23-2022
+[2022.07.26-21.20.33:032][  0]LogRHI: Texture pool is 14855 MB (70% of 21222 MB)
+[2022.07.26-21.20.33:032][  0]LogD3D12RHI: Async texture creation enabled
+[2022.07.26-21.20.33:032][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.07.26-21.20.33:042][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.07.26-21.20.33:046][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/plugins/MocapToolsHZ503/MocapToolsHZ503.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/plugins/MocapToolsHZ503/Intermediate/TurnkeyReport_0.log" -log="D:/plugins/MocapToolsHZ503/Intermediate/TurnkeyLog_0.log" -project="D:/plugins/MocapToolsHZ503/MocapToolsHZ503.uproject"  -platform=all'
+[2022.07.26-21.20.33:046][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE_5.0_HZ/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/plugins/MocapToolsHZ503/MocapToolsHZ503.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/plugins/MocapToolsHZ503/Intermediate/TurnkeyReport_0.log" -log="D:/plugins/MocapToolsHZ503/Intermediate/TurnkeyLog_0.log" -project="D:/plugins/MocapToolsHZ503/MocapToolsHZ503.uproject"  -platform=all" ]
+[2022.07.26-21.20.33:060][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.07.26-21.20.33:065][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.07.26-21.20.33:065][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.07.26-21.20.33:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.26-21.20.33:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.26-21.20.33:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.26-21.20.33:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.26-21.20.33:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.26-21.20.33:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.26-21.20.33:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.26-21.20.33:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.26-21.20.33:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.26-21.20.33:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.26-21.20.33:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.07.26-21.20.33:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.07.26-21.20.33:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.26-21.20.33:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.07.26-21.20.33:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.26-21.20.33:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.26-21.20.33:090][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.07.26-21.20.33:117][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.26-21.20.33:119][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.07.26-21.20.33:119][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.07.26-21.20.33:119][  0]LogTargetPlatformManager:   ADPCM
+[2022.07.26-21.20.33:119][  0]LogTargetPlatformManager:   PCM
+[2022.07.26-21.20.33:120][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.07.26-21.20.33:120][  0]LogTargetPlatformManager:   BINKA
+[2022.07.26-21.20.33:121][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.07.26-21.20.33:121][  0]LogTargetPlatformManager:   OGG
+[2022.07.26-21.20.33:121][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.07.26-21.20.33:121][  0]LogTargetPlatformManager:   OPUS
+[2022.07.26-21.20.33:154][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.26-21.20.33:154][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../plugins/MocapToolsHZ503/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.07.26-21.20.33:154][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.26-21.20.33:154][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../plugins/MocapToolsHZ503/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.07.26-21.20.33:154][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.26-21.20.33:157][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../plugins/MocapToolsHZ503/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.26-21.20.33:157][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.07.26-21.20.33:157][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../plugins/MocapToolsHZ503/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.26-21.20.33:157][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.07.26-21.20.33:173][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2022.07.26-21.20.33:173][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.07.26-21.20.33:173][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.26-21.20.33:173][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.07.26-21.20.33:179][  0]LogDerivedDataCache: Speed tests for C:/Users/Shouyu/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.07.26-21.20.33:179][  0]LogDerivedDataCache: Display: Performance to C:/Users/Shouyu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=1045.18MBs, RandomWriteSpeed=229.65MBs. Assigned SpeedClass 'Local'
+[2022.07.26-21.20.33:179][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Shouyu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.26-21.20.33:179][  0]LogDerivedDataCache: Found environment variable UE-SharedDataCachePath=\\192.168.140.152\ddc
+[2022.07.26-21.20.33:257][  0]LogDerivedDataCache: Speed tests for //192.168.140.152/ddc took 0.08 seconds
+[2022.07.26-21.20.33:257][  0]LogDerivedDataCache: Display: Performance to //192.168.140.152/ddc: Latency=0.89ms. RandomReadSpeed=34.44MBs, RandomWriteSpeed=24.06MBs. Assigned SpeedClass 'Local'
+[2022.07.26-21.20.33:258][  0]LogDerivedDataCache: Using Shared data cache path \\192.168.140.152\ddc: Writable
+[2022.07.26-21.20.33:263][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.07.26-21.20.33:263][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.07.26-21.20.33:264][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../../plugins/MocapToolsHZ503/Intermediate/Shaders/WorkingDirectory/8356/).
+[2022.07.26-21.20.33:264][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Shouyu/AppData/Local/Temp/UnrealShaderWorkingDir/939EE76A446D83FCAC5666A274132748/'.
+[2022.07.26-21.20.33:264][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.26-21.20.33:264][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.07.26-21.20.34:320][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.26-21.20.34:320][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.26-21.20.34:350][  0]LogAssetRegistry: FAssetRegistry took 0.0115 seconds to start up
+[2022.07.26-21.20.34:358][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.07.26-21.20.34:514][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.07.26-21.20.34:514][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.07.26-21.20.34:684][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.26-21.20.34:684][  0]LogDeviceProfileManager: Active device profile: [0000073BC8382140][0000073BB82DA000 50] WindowsEditor
+[2022.07.26-21.20.34:684][  0]LogDeviceProfileManager: Profiles: [0000073BC8381C00][0000073BB82D5000 50] Windows, [0000073BC8382140][0000073BB82DA000 50] WindowsEditor, [0000073BC8380000][0000073BB818C800 50] WindowsServer, [0000073BC8381880][0000073BA49BA000 50] WindowsClient, [0000073BC8380E00][0000073BBAC0C800 50] IOS, [0000073BC83824C0][0000073BC8390000 50] iPadAir2, [0000073BC8384EC0][0000073BC8397800 50] IPadPro, [0000073BC8385240][0000073BC8395000 50] iPadAir3, [0000073BC8381500][0000073BC839A000 50] iPadAir4, [0000073BC8383D40][0000073BC839C800 50] iPadMini4, [0000073BC8384600][0000073BB82D7800 50] iPadMini5, [0000073BC8380540][0000073BC83B0000 50] iPadMini6, [0000073BC8388500][0000073BC83BA000 50] iPhone6S, [0000073BC8388880][0000073BC83B7800 50] iPhone7, [0000073BC8388C00][0000073BC83B5000 50] iPodTouch7, [0000073BC83840C0][0000073BC83BC800 50] iPhone6SPlus, [0000073BC8387000][0000073BC8392800 50] iPhone7Plus, [0000073BC83878C0][0000073BC8340000 50] iPhoneSE, [0000073BC8382F40][0000073BC8345000 50] iPhone8, [0000073BC83801C0][0000073BC8347800 50] iPhone8Plus, [0000073BC8385E80][0000073BC834A000 50] iPhoneX, [0000073BC8387700][0000073BC834C800 50] iPhoneXS, [0000073BC8380380][0000073BC83B2800 50] iPhoneXSMax, [0000073BC8382840][0000073BC8360000 50] iPhoneXR, [0000073BC83832C0][0000073BC8365000 50] iPhone11, [0000073BC8386AC0][0000073BC8367800 50] iPhone11Pro, [0000073BC8384D00][0000073BC836A000 50] iPhone11ProMax, [0000073BC8385CC0][0000073BC836C800 50] iPhoneSE2, [0000073BC8382300][0000073BC8342800 50] iPhone12Mini, [0000073BC8386580][0000073BC8370000 50] iPhone12, [0000073BC8386E40][0000073BC8375000 50] iPhone12Pro, [0000073BC8381180][0000073BC8377800 50] iPhone12ProMax, [0000073BC8383F00][0000073BC837A000 50] iPhone13Mini, [0000073BC8386200][0000073BC837C800 50] iPhone13, [0000073BC83871C0][0000073BC8362800 50] iPhone13Pro, [0000073BC8385940][0000073BC83D0000 50] iPhone13ProMax, [0000073BC8382680][0000073BC83D5000 50] iPadPro105, [0000073BC8388180][0000073BC83D7800 50] iPadPro129, [0000073BC8387A80][0000073BC83DA000 50] iPadPro97, [0000073BC8380700][0000073BC83DC800 50] iPadPro2_129, [0000073BC8384280][0000073BC8372800 50] iPad5, [0000073BC83863C0][0000073BC83E0000 50] iPad6, [0000073BC8387540][0000073BC83E5000 50] iPad7, [0000073BC8380FC0][0000073BC83E7800 50] iPad8, [0000073BC8386900][0000073BC83EA000 50] iPad9, [0000073BC83808C0][0000073BC83EC800 50] iPadPro11, [0000073BC83886C0][0000073BC83D2800 50] iPadPro2_11, [0000073BC8380C40][0000073BC83F0000 50] iPadPro3_11, [0000073BC8387C40][0000073BC83F5000 50] iPadPro3_129, [0000073BC8383640][0000073BC83F7800 50] iPadPro4_129, [0000073BC8384440][0000073BC83FA000 50] iPadPro5_129, [0000073BC8381A40][0000073BC83FC800 50] AppleTV, [0000073BC83839C0][0000073BC83E2800 50] AppleTV4K, [0000073BC8386740][0000073BC8400000 50] TVOS, [0000073BC838A2C0][0000073BC8407800 50] Mac, [0000073BC838A640][0000073BC8405000 50] MacEditor, [0000073BC838A100][0000073BC840A000 50] MacClient, [0000073BC8382BC0][0000073BC840C800 50] MacServer, [0000073BC8389D80][0000073BC8440000 50] Linux, [0000073BC8387380][0000073BC8442800 50] LinuxEditor, [0000073BC838AB80][0000073BC8447800 50] LinuxArm64Editor, [0000073BC8389F40][0000073BC844A000 50] LinuxArm64, [0000073BC83816C0][0000073BC844C800 50] LinuxClient, [0000073BC8387FC0][0000073BC83F2800 50] LinuxArm64Client, [0000073BC83847C0][0000073BC8445000 50] LinuxServer, [0000073BC8385780][0000073BC8430000 50] LinuxArm64Server, [0000073BC8383B80][0000073BC8435000 50] Android, [0000073BC838A480][0000073BC8437800 50] Android_Preview_OpenGL, [0000073BC8384980][0000073BC843A000 50] Android_Preview_Vulkan, [0000073BC8388DC0][0000073BC843C800 50] Android_Low, [0000073BC8385400][0000073BC8402800 50] Android_Mid, [0000073BC8386C80][0000073BC8410000 50] Android_High, [0000073BC8389680][0000073BC8415000 50] Android_Default, [0000073BC83855C0][0000073BC8417800 50] Android_Adreno4xx, [0000073BC8386040][0000073BC841A000 50] Android_Adreno5xx_Low, [0000073BC8389840][0000073BC841C800 50] Android_Adreno5xx, [0000073BC838A800][0000073BC8432800 50] Android_Adreno6xx, [0000073BC8389BC0][0000073BC8450000 50] Android_Adreno6xx_Vulkan, [0000073BC8383480][0000073BC8455000 50] Android_Adreno7xx, [0000073BC8380A80][0000073BC8457800 50] Android_Adreno7xx_Vulkan, [0000073BC838B440][0000073BC845A000 50] Android_Mali_T6xx, [0000073BC8385B00][0000073BC845C800 50] Android_Mali_T7xx, [0000073BC8384B40][0000073BC8412800 50] Android_Mali_T8xx, [0000073BC8381F80][0000073BC8460000 50] Android_Mali_G71, [0000073BC838B600][0000073BC8465000 50] Android_Mali_G72, [0000073BC8388340][0000073BC8467800 50] Android_Mali_G72_Vulkan, [0000073BC838B980][0000073BC846A000 50] Android_Mali_G76, [0000073BC8381340][0000073BC846C800 50] Android_Mali_G76_Vulkan, [0000073BC838A9C0][0000073BC8452800 50] Android_Mali_G77, [0000073BC838C400][0000073BC8480000 50] Android_Mali_G77_Vulkan, [0000073BC8389A00][0000073BC8485000 50] Android_Mali_G78, [0000073BC8382A00][0000073BC8487800 50] Android_Mali_G78_Vulkan, [0000073BC83894C0][0000073BC848A000 50] Android_Mali_G710, [0000073BC838C5C0][0000073BC848C800 50] Android_Mali_G710_Vulkan, [0000073BC8383100][0000073BC8462800 50] Android_Xclipse_920, [0000073BC838C940][0000073BC8490000 50] Android_Xclipse_920_Vulkan, [0000073BC838BB40][0000073BC8495000 50] Android_Vulkan_SM5, [0000073BC838BD00][0000073BC8497800 50] Android_PowerVR_G6xxx, [0000073BC838D3C0][0000073BC849A000 50] Android_PowerVR_GT7xxx, [0000073BC838B7C0][0000073BC849C800 50] Android_PowerVR_GE8xxx, [0000073BC8385080][0000073BC8482800 50] Android_PowerVR_GM9xxx, [0000073BC8383800][0000073BC84A0000 50] Android_PowerVR_GM9xxx_Vulkan, [0000073BC838D580][0000073BC84A5000 50] Android_TegraK1, [0000073BC838C080][0000073BC84A7800 50] Android_Unknown_Vulkan, [0000073BC838D900][0000073BC84AA000 50] Oculus_Quest, [0000073BC838B280][0000073BC84AC800 50] Oculus_Quest2, [0000073BC838E380][0000073BC8492800 50] HoloLens, 
+[2022.07.26-21.20.34:684][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.07.26-21.20.34:702][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.07.26-21.20.34:781][  0]LogMaterial: Display: Missing cached shadermap for WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1FFDB182C1906D47D654E25D5E1521DDB3D7E53E), compiling. Is special engine material.
+[2022.07.26-21.22.30:595][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.26-21.22.30:595][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.26-21.22.30:595][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.26-21.22.30:595][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.26-21.22.30:595][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.26-21.22.30:607][  0]LogNetVersion: MocapToolsHZ503 1.0.0, NetCL: 0, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3064842796)
+[2022.07.26-21.22.30:714][  0]LogSlate: Border
+[2022.07.26-21.22.30:714][  0]LogSlate: BreadcrumbButton
+[2022.07.26-21.22.30:714][  0]LogSlate: Default
+[2022.07.26-21.22.30:714][  0]LogSlate: Icons.Save
+[2022.07.26-21.22.30:714][  0]LogSlate: Icons.Toolbar.Settings
+[2022.07.26-21.22.30:714][  0]LogSlate: ListView
+[2022.07.26-21.22.30:714][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.07.26-21.22.30:714][  0]LogSlate: SoftwareCursor_Grab
+[2022.07.26-21.22.30:714][  0]LogSlate: TableView.DarkRow
+[2022.07.26-21.22.30:714][  0]LogSlate: TableView.Row
+[2022.07.26-21.22.30:714][  0]LogSlate: TreeView
+[2022.07.26-21.22.30:835][  0]SourceControl: Source control is disabled
+[2022.07.26-21.22.30:855][  0]SourceControl: Source control is disabled
+[2022.07.26-21.22.30:855][  0]SourceControl: Source control is disabled
+[2022.07.26-21.22.30:985][  0]LogUObjectArray: 21235 objects as part of root set at end of initial load.
+[2022.07.26-21.22.30:985][  0]LogUObjectAllocator: 5850408 out of 0 bytes used by permanent object pool.
+[2022.07.26-21.22.30:985][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.26-21.22.31:280][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0ECF4CEA4B28410B1BF8F6BEF556F505 | Instance: 8137D1044963FD11B39160993F59D937 (VM21P062-8356).
+[2022.07.26-21.22.31:306][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.26-21.22.31:310][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.26-21.22.31:320][  0]LogPython: Using Python 3.9.7
+[2022.07.26-21.22.32:286][  0]SourceControl: Source control is disabled
+[2022.07.26-21.22.32:287][  0]SourceControl: Source control is disabled
+[2022.07.26-21.22.32:296][  0]SourceControl: Source control is disabled
+[2022.07.26-21.22.32:302][  0]LogUProjectInfo: Found projects:
+[2022.07.26-21.22.32:580][  0]LogOpenImageDenoise: OIDN starting up
+[2022.07.26-21.22.32:735][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.26-21.22.32:747][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.26-21.22.32:747][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.26-21.22.32:782][  0]LogHttpServerModule: Starting all listeners...
+[2022.07.26-21.22.32:783][  0]LogHttpListener: Created new HttpListener on 127.0.0.1:30010
+[2022.07.26-21.22.32:783][  0]LogHttpServerModule: All listeners started
+[2022.07.26-21.22.32:787][  0]LogRemoteControl: Web Remote Control WebSocket server started on port 30020
+[2022.07.26-21.22.32:805][  0]LogOSC: Display: OSCServer 'FRemoteControlProtocolOSC_Server_127.0.0.1:8001' Listening: 127.0.0.1:8001.
+[2022.07.26-21.22.32:969][  0]************************************************************
+[2022.07.26-21.22.32:969][  0]Start VersatileToolbar Plugin...........
+[2022.07.26-21.22.32:969][  0]************************************************************
+[2022.07.26-21.22.32:969][  0]************************************************************
+[2022.07.26-21.22.32:969][  0]
+[2022.07.26-21.22.32:969][  0]************************************************************
+[2022.07.26-21.22.32:969][  0]************************************************************
+[2022.07.26-21.22.32:969][  0]
+[2022.07.26-21.22.32:969][  0]************************************************************
+[2022.07.26-21.22.32:969][  0]************************************************************
+[2022.07.26-21.22.32:969][  0]
+[2022.07.26-21.22.32:969][  0]************************************************************
+[2022.07.26-21.22.32:969][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Versatile/VersatilePipeline/Resources/ButtonIcon_40x.png' error.
+[2022.07.26-21.22.32:969][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Versatile/VersatilePipeline/Resources/ButtonIcon_40x.png
+[2022.07.26-21.22.33:019][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Versatile/VersatilePipeline/Resources/ButtonIcon_40x.png' error.
+[2022.07.26-21.22.33:019][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Versatile/VersatilePipeline/Resources/ButtonIcon_40x.png
+[2022.07.26-21.22.33:104][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Versatile/VersatilePipeline/Resources/ButtonIcon_40x.png' error.
+[2022.07.26-21.22.33:104][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Versatile/VersatilePipeline/Resources/ButtonIcon_40x.png
+[2022.07.26-21.22.33:104][  0]LogCollectionManager: Loaded 0 collections in 0.000730 seconds
+[2022.07.26-21.22.33:164][  0]LogFileCache: Scanning file cache for directory 'D:/plugins/MocapToolsHZ503/Saved/Collections/' took 0.00s
+[2022.07.26-21.22.33:164][  0]LogFileCache: Scanning file cache for directory 'D:/plugins/MocapToolsHZ503/Content/Developers/shouyu/Collections/' took 0.00s
+[2022.07.26-21.22.33:164][  0]LogFileCache: Scanning file cache for directory 'D:/plugins/MocapToolsHZ503/Content/Collections/' took 0.00s
+[2022.07.26-21.22.33:322][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Versatile/VersatilePipeline/Resources/ButtonIcon_40x.png' error.
+[2022.07.26-21.22.33:322][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Versatile/VersatilePipeline/Resources/ButtonIcon_40x.png
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FVdbRay::Origin is not initialized properly. Module:VolumeRuntime File:Private/Niagara/NiagaraDataInterfaceVdb.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FVdbRay::Direction is not initialized properly. Module:VolumeRuntime File:Private/Niagara/NiagaraDataInterfaceVdb.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FVdbLevelSetHit::t is not initialized properly. Module:VolumeRuntime File:Private/Niagara/NiagaraDataInterfaceVdb.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FVdbLevelSetHit::v0 is not initialized properly. Module:VolumeRuntime File:Private/Niagara/NiagaraDataInterfaceVdb.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: IntProperty FVdbLevelSetHit::i is not initialized properly. Module:VolumeRuntime File:Private/Niagara/NiagaraDataInterfaceVdb.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: IntProperty FVdbLevelSetHit::j is not initialized properly. Module:VolumeRuntime File:Private/Niagara/NiagaraDataInterfaceVdb.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: IntProperty FVdbLevelSetHit::k is not initialized properly. Module:VolumeRuntime File:Private/Niagara/NiagaraDataInterfaceVdb.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FFaceRotation::HeadYaw is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileFaceDataStruct.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FFaceRotation::HeadPitch is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileFaceDataStruct.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FFaceRotation::HeadRoll is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileFaceDataStruct.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FFaceRotation::LeftEyeYaw is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileFaceDataStruct.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FFaceRotation::LeftEyePitch is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileFaceDataStruct.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FFaceRotation::LeftEyeRoll is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileFaceDataStruct.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FFaceRotation::RightEyeYaw is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileFaceDataStruct.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FFaceRotation::RightEyePitch is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileFaceDataStruct.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FFaceRotation::RightEyeRoll is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileFaceDataStruct.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::ThumbFinger1 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::ThumbFinger2 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::ThumbFinger3 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::IndexFinger1 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::IndexFinger2 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::IndexFinger3 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::MiddleFinger1 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::MiddleFinger2 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::MiddleFinger3 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::RingFinger1 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::RingFinger2 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::RingFinger3 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::PinkyFinger1 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::PinkyFinger2 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: StructProperty FFingerBoneRotator::PinkyFinger3 is not initialized properly. Module:VersatileFunctionLibrary File:Public/VersatileSSGloveLibrary.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FOSC_FocusDistanceMap::MinScollLength is not initialized properly. Module:Versatile_iPadCamera2 File:Public/DataStruct.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FOSC_FocusDistanceMap::MaxScollLength is not initialized properly. Module:Versatile_iPadCamera2 File:Public/DataStruct.h
+[2022.07.26-21.22.33:322][  0]LogClass: Warning: ObjectProperty FOSC_FocusDistanceMap::CurveFloat is not initialized properly. Module:Versatile_iPadCamera2 File:Public/DataStruct.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FTelescopicCraneStatus::TrackPosition is not initialized properly. Module:Versatile_iPadCamera2 File:Public/Tool/VersatileTelescopicCraneBase.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FTelescopicCraneStatus::Yaw is not initialized properly. Module:Versatile_iPadCamera2 File:Public/Tool/VersatileTelescopicCraneBase.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FTelescopicCraneStatus::Pitch is not initialized properly. Module:Versatile_iPadCamera2 File:Public/Tool/VersatileTelescopicCraneBase.h
+[2022.07.26-21.22.33:322][  0]LogClass: Display: FloatProperty FTelescopicCraneStatus::Length is not initialized properly. Module:Versatile_iPadCamera2 File:Public/Tool/VersatileTelescopicCraneBase.h
+[2022.07.26-21.22.33:325][  0]LogClass: Display: StructProperty FQualisysTrajectoryInfo::Position is not initialized properly. Module:QTMConnect File:Classes/QualisysClient.h
+[2022.07.26-21.22.33:325][  0]LogClass: Display: StructProperty FQualisysRigidBodyInfo::Position is not initialized properly. Module:QTMConnect File:Classes/QualisysClient.h
+[2022.07.26-21.22.33:325][  0]LogClass: Display: StructProperty FQualisysRigidBodyInfo::Orientation is not initialized properly. Module:QTMConnect File:Classes/QualisysClient.h
+[2022.07.26-21.22.33:325][  0]LogClass: Display: 41 Uninitialized script struct members found including 1 object properties
+[2022.07.26-21.22.33:327][  0]LogAutomationTest: Warning: Failed to read file '../../../Engine/Plugins/Versatile/VersatilePipeline/Resources/ButtonIcon_40x.png' error.
+[2022.07.26-21.22.33:327][  0]LogAutomationTest: Warning: ObjectProperty FOSC_FocusDistanceMap::CurveFloat is not initialized properly. Module:Versatile_iPadCamera2 File:Public/DataStruct.h
+[2022.07.26-21.22.33:328][  0]LogEngine: Initializing Engine...
+[2022.07.26-21.22.33:335][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.07.26-21.22.33:336][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.07.26-21.22.33:534][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.26-21.22.33:535][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.26-21.22.33:542][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.26-21.22.33:556][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.26-21.22.33:557][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.26-21.22.33:565][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.07.26-21.22.33:566][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.07.26-21.22.33:566][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.07.26-21.22.33:566][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.26-21.22.33:566][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.26-21.22.33:566][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.26-21.22.33:566][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.26-21.22.33:566][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.26-21.22.33:566][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.26-21.22.33:566][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.26-21.22.33:566][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.26-21.22.33:566][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.26-21.22.33:566][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.26-21.22.33:566][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.26-21.22.33:566][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.26-21.22.33:566][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.26-21.22.33:573][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.26-21.22.33:608][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Sennheiser SC60 for Lync)
+[2022.07.26-21.22.33:608][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.26-21.22.33:611][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.26-21.22.33:611][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.26-21.22.33:611][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.07.26-21.22.33:611][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.07.26-21.22.33:612][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.07.26-21.22.33:612][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.07.26-21.22.33:612][  0]LogInit: FAudioDevice initialized.
+[2022.07.26-21.22.33:612][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.26-21.22.33:612][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.26-21.22.33:612][  0]LogInit: Texture streaming: Enabled
+[2022.07.26-21.22.33:631][  0]LogDerivedDataCache: C:/Users/Shouyu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.440 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.26-21.22.33:631][  0]LogAnalytics: Display: [UEEditor.UnrealEngine.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-0+++UE5+Release-5.0
+[2022.07.26-21.22.33:635][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.26-21.22.33:646][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.07.26-21.22.33:650][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.07.26-21.22.33:651][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.07.26-21.22.34:124][  0]LogLiveCoding: Display: First instance in process group "UE_MocapToolsHZ503_0x9b5c5795", spawning console
+[2022.07.26-21.22.34:124][  0]LogLiveCoding: Display: Waiting for server
+[2022.07.26-21.22.34:124][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.07.26-21.22.34:143][  0]LogInit: Transaction tracking system initialized
+[2022.07.26-21.22.34:184][  0]BlueprintLog: New page: Editor Load
+[2022.07.26-21.22.34:273][  0]LocalizationService: Localization service is disabled
+[2022.07.26-21.22.34:296][  0]TimingProfiler: Initialize
+[2022.07.26-21.22.34:296][  0]TimingProfiler: OnSessionChanged
+[2022.07.26-21.22.34:296][  0]LoadingProfiler: Initialize
+[2022.07.26-21.22.34:296][  0]LoadingProfiler: OnSessionChanged
+[2022.07.26-21.22.34:296][  0]NetworkingProfiler: Initialize
+[2022.07.26-21.22.34:296][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.26-21.22.34:296][  0]MemoryProfiler: Initialize
+[2022.07.26-21.22.34:296][  0]MemoryProfiler: OnSessionChanged
+[2022.07.26-21.22.34:510][  0]LogFileCache: Scanning file cache for directory 'D:/plugins/MocapToolsHZ503/Content/' took 0.00s
+[2022.07.26-21.22.34:510][  0]************************************************************
+[2022.07.26-21.22.34:510][  0]
+[2022.07.26-21.22.34:510][  0]************************************************************
+[2022.07.26-21.22.34:510][  0]************************************************************
+[2022.07.26-21.22.34:510][  0]../../../../../plugins/MocapToolsHZ503/Config//UnrealStart.py
+[2022.07.26-21.22.34:510][  0]************************************************************
+[2022.07.26-21.22.34:510][  0]************************************************************
+[2022.07.26-21.22.34:510][  0]../../../Engine/Plugins/Versatile/VersatilePipeline/Content/Python/UnrealStart.py
+[2022.07.26-21.22.34:511][  0]************************************************************
+[2022.07.26-21.22.34:692][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.07.26-21.22.34:705][  0]LogVPUtilitiesEditor: VP Scouting subsystem initialized.
+[2022.07.26-21.22.34:937][  0]LogLinker: Warning: [AssetLog] D:\UE_5.0_HZ\UE_5.0\Engine\Plugins\Versatile\VersatilePreviz\Content\iPadCamera\Wedget\Sequence\UMG_SequenceListButton.uasset: Failed to load '/VersatilePreviz/iPadCamera/Wedget/Textures/编组_2_3x': Can't find file.
+[2022.07.26-21.22.34:937][  0]LoadErrors: Failed to load /VersatilePreviz/iPadCamera/BP_iPadCameraRail.BP_iPadCameraRail_C Referenced by CanvasPanelSlot_3
+[2022.07.26-21.22.34:937][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /VersatilePreviz/iPadCamera/Wedget/Textures/编组_2_3x'
+[2022.07.26-21.22.34:937][  0]LogLinker: Warning: [AssetLog] D:\UE_5.0_HZ\UE_5.0\Engine\Plugins\Versatile\VersatilePreviz\Content\iPadCamera\Wedget\Sequence\UMG_SequenceListButton.uasset: Failed to load '/VersatilePreviz/iPadCamera/Wedget/Textures/编组_2x': Can't find file.
+[2022.07.26-21.22.34:937][  0]LoadErrors: Failed to load /VersatilePreviz/iPadCamera/BP_iPadCameraRail.BP_iPadCameraRail_C Referenced by CanvasPanelSlot_3
+[2022.07.26-21.22.34:937][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /VersatilePreviz/iPadCamera/Wedget/Textures/编组_2x'
+[2022.07.26-21.22.34:939][  0]LogLinker: Warning: [AssetLog] D:\UE_5.0_HZ\UE_5.0\Engine\Plugins\Versatile\VersatilePreviz\Content\iPadCamera\Wedget\UMG_RecorderButton.uasset: Failed to load '/VersatilePreviz/iPadCamera/Wedget/Textures/红色圆': Can't find file.
+[2022.07.26-21.22.34:939][  0]LoadErrors: Failed to load /VersatilePreviz/iPadCamera/BP_iPadCameraRail.BP_iPadCameraRail_C Referenced by CanvasPanelSlot_4
+[2022.07.26-21.22.34:939][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /VersatilePreviz/iPadCamera/Wedget/Textures/红色圆'
+[2022.07.26-21.22.34:940][  0]LogLinker: Warning: [AssetLog] D:\UE_5.0_HZ\UE_5.0\Engine\Plugins\Versatile\VersatilePreviz\Content\iPadCamera\Wedget\Sequence\UMG_SequenceEjectButton.uasset: Failed to load '/VersatilePreviz/iPadCamera/Wedget/Textures/编组_3x_5_': Can't find file.
+[2022.07.26-21.22.34:940][  0]LoadErrors: Failed to load /VersatilePreviz/iPadCamera/Wedget/UMG_Main.UMG_Main_C Referenced by CanvasPanelSlot_5
+[2022.07.26-21.22.34:941][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /VersatilePreviz/iPadCamera/Wedget/Textures/编组_3x_5_'
+[2022.07.26-21.22.34:942][  0]LogLinker: Warning: [AssetLog] D:\UE_5.0_HZ\UE_5.0\Engine\Plugins\Versatile\VersatilePreviz\Content\iPadCamera\Wedget\Sequence\UMG_SequenceLoopButton.uasset: Failed to load '/VersatilePreviz/iPadCamera/Wedget/Textures/编组_6_2x': Can't find file.
+[2022.07.26-21.22.34:942][  0]LoadErrors: Failed to load /VersatilePreviz/iPadCamera/Wedget/UMG_Main.UMG_Main_C Referenced by CanvasPanelSlot_5
+[2022.07.26-21.22.34:942][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /VersatilePreviz/iPadCamera/Wedget/Textures/编组_6_2x'
+[2022.07.26-21.22.34:968][  0]LogLinker: Warning: [AssetLog] D:\UE_5.0_HZ\UE_5.0\Engine\Plugins\Versatile\VersatilePreviz\Content\iPadCamera\Wedget\Option\UMG_OptionListButton.uasset: Failed to load '/VersatilePreviz/iPadCamera/Wedget/Textures/矩形_2x_12_': Can't find file.
+[2022.07.26-21.22.34:968][  0]LoadErrors: Failed to load /VersatilePreviz/iPadCamera/Wedget/UMG_Main.UMG_Main_C Referenced by CanvasPanelSlot_2
+[2022.07.26-21.22.34:968][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /VersatilePreviz/iPadCamera/Wedget/Textures/矩形_2x_12_'
+[2022.07.26-21.22.34:969][  0]LogLinker: Warning: [AssetLog] D:\UE_5.0_HZ\UE_5.0\Engine\Plugins\Versatile\VersatilePreviz\Content\iPadCamera\Wedget\Option\UMG_OptionListButton.uasset: Failed to load '/VersatilePreviz/iPadCamera/Wedget/Textures/矩形_3x': Can't find file.
+[2022.07.26-21.22.34:969][  0]LoadErrors: Failed to load /VersatilePreviz/iPadCamera/Wedget/Textures/矩形_3x.矩形_3x Referenced by Image_Choose
+[2022.07.26-21.22.34:969][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /VersatilePreviz/iPadCamera/Wedget/Textures/矩形_3x'
+[2022.07.26-21.22.34:979][  0]LogLinker: Warning: [AssetLog] D:\UE_5.0_HZ\UE_5.0\Engine\Plugins\Versatile\VersatilePreviz\Content\iPadCamera\Wedget\Sequence\UMG_SequenceTimeSlider.uasset: Failed to load '/VersatilePreviz/iPadCamera/Wedget/Textures/路径_5': Can't find file.
+[2022.07.26-21.22.34:979][  0]LoadErrors: Failed to load /VersatilePreviz/iPadCamera/BP_iPadCameraTelescopicCrane.BP_iPadCameraTelescopicCrane_C Referenced by HorizontalBoxSlot_18
+[2022.07.26-21.22.34:979][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /VersatilePreviz/iPadCamera/Wedget/Textures/路径_5'
+[2022.07.26-21.22.34:979][  0]LogLinker: Warning: [AssetLog] D:\UE_5.0_HZ\UE_5.0\Engine\Plugins\Versatile\VersatilePreviz\Content\iPadCamera\Wedget\Sequence\UMG_SequenceTimeSlider.uasset: Failed to load '/VersatilePreviz/iPadCamera/Wedget/Textures/路径_5_2': Can't find file.
+[2022.07.26-21.22.34:979][  0]LoadErrors: Failed to load /VersatilePreviz/iPadCamera/BP_iPadCameraTelescopicCrane.BP_iPadCameraTelescopicCrane_C Referenced by HorizontalBoxSlot_18
+[2022.07.26-21.22.34:979][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /VersatilePreviz/iPadCamera/Wedget/Textures/路径_5_2'
+[2022.07.26-21.22.34:982][  0]LogLinker: Warning: [AssetLog] D:\UE_5.0_HZ\UE_5.0\Engine\Plugins\Versatile\VersatilePreviz\Content\iPadCamera\Wedget\Sequence\UMG_SequnecePlayButton.uasset: Failed to load '/VersatilePreviz/iPadCamera/Wedget/Textures/路径_10备份_4_3x': Can't find file.
+[2022.07.26-21.22.34:982][  0]LoadErrors: Failed to load /VersatilePreviz/iPadCamera/BP_iPadCameraTrackSeparation.BP_iPadCameraTrackSeparation_C Referenced by HorizontalBoxSlot_3
+[2022.07.26-21.22.34:982][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /VersatilePreviz/iPadCamera/Wedget/Textures/路径_10备份_4_3x'
+[2022.07.26-21.22.34:984][  0]LogLinker: Warning: [AssetLog] D:\UE_5.0_HZ\UE_5.0\Engine\Plugins\Versatile\VersatilePreviz\Content\iPadCamera\Wedget\Sequence\UMG_SequenceToEndButton.uasset: Failed to load '/VersatilePreviz/iPadCamera/Wedget/Textures/编组_2备份_3x': Can't find file.
+[2022.07.26-21.22.34:984][  0]LoadErrors: Failed to load /VersatilePreviz/iPadCamera/BP_iPadCameraTrackSeparation.BP_iPadCameraTrackSeparation_C Referenced by HorizontalBoxSlot_7
+[2022.07.26-21.22.34:984][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /VersatilePreviz/iPadCamera/Wedget/Textures/编组_2备份_3x'
+[2022.07.26-21.22.35:000][  0]LogLinker: Warning: [AssetLog] D:\UE_5.0_HZ\UE_5.0\Engine\Plugins\Versatile\VersatilePreviz\Content\iPadCamera\Wedget\Setting\UMG_LetterBoxPresetButton.uasset: Failed to load '/VersatilePreviz/iPadCamera/Wedget/Textures/编组备份_3': Can't find file.
+[2022.07.26-21.22.35:000][  0]LoadErrors: Failed to load /VersatilePreviz/iPadCamera/Wedget/UMG_Main.UMG_Main_C Referenced by WrapBoxSlot_5
+[2022.07.26-21.22.35:000][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /VersatilePreviz/iPadCamera/Wedget/Textures/编组备份_3'
+[2022.07.26-21.22.35:849][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Versatile/VersatilePreviz/Resources/ButtonIcon_40x.png' error.
+[2022.07.26-21.22.35:849][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Versatile/VersatilePreviz/Resources/ButtonIcon_40x.png
+[2022.07.26-21.22.35:895][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Versatile/VersatilePipeline/Resources/ButtonIcon_40x.png' error.
+[2022.07.26-21.22.35:895][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Versatile/VersatilePipeline/Resources/ButtonIcon_40x.png
+[2022.07.26-21.22.35:973][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Versatile/VersatilePreviz/Resources/ButtonIcon_40x.png' error.
+[2022.07.26-21.22.35:973][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Versatile/VersatilePreviz/Resources/ButtonIcon_40x.png
+[2022.07.26-21.22.35:973][  0]LogRemoteControlWebInterface: Warning: WebApp folder does not exists (D:/UE_5.0_HZ/UE427_extra/WebApp)
+[2022.07.26-21.22.35:973][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.26-21.22.35:976][  0]SourceControl: Source control is disabled
+[2022.07.26-21.22.35:976][  0]LogUnrealEdMisc: Loading editor; pre map load, took 124.367
+[2022.07.26-21.22.35:976][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.26-21.22.35:976][  0]LightingResults: New page: Lighting Build
+[2022.07.26-21.22.35:980][  0]LogStreaming: Display: FlushAsyncLoading: 2 QueuedPackages, 0 AsyncPackages
+[2022.07.26-21.22.37:266][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0_HZ\UE_5.0\Engine\Plugins\Experimental\VirtualProductionUtilities\Content\VRTools\SequencerTool.uasset: [Compiler] Load Sequence : Usage of 'Load Sequence' has been deprecated. Please replace or remove it.
+[2022.07.26-21.22.37:737][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.26-21.22.37:738][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.26-21.22.37:738][  0]MapCheck: New page: Map Check
+[2022.07.26-21.22.37:738][  0]LightingResults: New page: Lighting Build
+[2022.07.26-21.22.37:747][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.26-21.22.37:776][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.07.26-21.22.37:851][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.07.26-21.22.37:855][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.26-21.22.37:855][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.07.26-21.22.37:855][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.26-21.22.37:855][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.07.26-21.22.38:027][  0]LogWorldPartition: Display: WorldPartition initialize took 172 ms
+[2022.07.26-21.22.38:203][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.26-21.22.38:210][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.07.26-21.22.38:211][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.26-21.22.38:220][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.583ms to complete.
+[2022.07.26-21.22.38:220][  0]LogFileHelpers: Loading map 'OpenWorld' took 2.244
+[2022.07.26-21.22.38:227][  0]LogUnrealEdMisc: Total Editor Startup Time, took 126.618
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: ================================================
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: Total job queries 1411, among them cache hits 0 (0.00%)
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: Tracking 1411 distinct input hashes that result in 756 distinct outputs (53.58%)
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: RAM used: 2.44 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.07%
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: Shaders Compiled: 1411
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: Jobs assigned 1411, completed 1411 (100.00%)
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 52.93 s, longest 113.46 s
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: Job execution time: average 6.33 s, max 9.34 s
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 59.27 s, max 114.78
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 114.78 s
+[2022.07.26-21.22.38:227][  0]LogShaderCompilers: Display: Jobs were issued in 155 batches (only local compilation was used), average 9.10 jobs/batch
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display: Average processing rate: 12.29 jobs/sec
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display: Effective parallelization: 7.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display: TShadowDepthVSVertexShadowDepth_VirtualShadowMapPositionOnly (compiled    6 times, average 1.61 sec, max 1.95 sec, min 0.32 sec)
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display: TShadowDepthVSVertexShadowDepth_OnePassPointLightPositionOnly (compiled    6 times, average 1.54 sec, max 1.86 sec, min 0.32 sec)
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display: TShadowDepthVSVertexShadowDepth_PerspectiveCorrectPositionOnly (compiled    6 times, average 1.09 sec, max 1.28 sec, min 0.24 sec)
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display:      TShadowDepthVSVertexShadowDepth_OutputDepthPositionOnly (compiled    6 times, average 1.06 sec, max 1.30 sec, min 0.23 sec)
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display:                                               FHWRasterizeVS - 20.65% of total time (compiled  288 times, average 0.60 sec, max 0.77 sec, min 0.41 sec)
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display:                                               FHWRasterizePS - 6.38% of total time (compiled   72 times, average 0.74 sec, max 1.01 sec, min 0.17 sec)
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display:                                             FDebugViewModePS - 2.80% of total time (compiled   30 times, average 0.78 sec, max 0.87 sec, min 0.65 sec)
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.70% of total time (compiled   30 times, average 0.76 sec, max 1.75 sec, min 0.50 sec)
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 2.70% of total time (compiled   30 times, average 0.75 sec, max 1.88 sec, min 0.50 sec)
+[2022.07.26-21.22.38:228][  0]LogShaderCompilers: Display: ================================================
+[2022.07.26-21.22.38:348][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.26-21.22.38:352][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.26-21.22.38:356][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.26-21.22.38:359][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.26-21.22.38:374][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0_HZ/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.07.26-21.22.38:374][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.26-21.22.38:374][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0_HZ/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.07.26-21.22.38:374][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.26-21.22.38:375][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0_HZ/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.07.26-21.22.38:375][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.26-21.22.38:375][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0_HZ/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.07.26-21.22.38:375][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.26-21.22.38:376][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0_HZ/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.07.26-21.22.38:376][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.26-21.22.38:376][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0_HZ/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.07.26-21.22.38:376][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.26-21.22.38:377][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0_HZ/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.07.26-21.22.38:377][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.26-21.22.38:377][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0_HZ/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.07.26-21.22.38:377][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.26-21.22.38:378][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0_HZ/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.07.26-21.22.38:378][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.26-21.22.38:378][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0_HZ/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.07.26-21.22.38:378][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.26-21.22.38:378][  0]LogFeaturePack: Error: Error in Feature pack D:/UE_5.0_HZ/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.07.26-21.22.38:660][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.26-21.22.38:663][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.26-21.22.38:664][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.26-21.22.38:665][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.26-21.22.38:676][  0]LogViewport: Scene viewport resized to 2690x870, mode Windowed.
+[2022.07.26-21.22.38:721][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.26-21.22.39:106][  0]LogStall: Startup...
+[2022.07.26-21.22.39:108][  0]LogStall: Startup complete.
+[2022.07.26-21.22.39:124][  0]LogInput: Warning: Action Reset uses invalid key MagicLeap_Left_Bumper.
+[2022.07.26-21.22.39:124][  0]LogInput: Warning: Action Handbrake uses invalid key MagicLeap_Right_Bumper.
+[2022.07.26-21.22.39:124][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.07.26-21.22.39:124][  0]LogLoad: (Engine Initialization) Total time: 127.52 seconds
+[2022.07.26-21.22.39:124][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.26-21.22.39:183][  0]LogAssetRegistry: Asset discovery search completed in 124.8332 seconds
+[2022.07.26-21.22.39:188][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.07.26-21.22.39:205][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.26-21.22.39:407][  0]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Temp/TakeRecorder/PendingTake.PendingTake:PendingTake
+[2022.07.26-21.22.39:429][  0]LogSceneOutliner: Outliner Column Spawnable does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.07.26-21.22.39:429][  0]LogSceneOutliner: Outliner Column Sequence does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.07.26-21.22.39:437][  0]LogConcertTakeRecorder: Display: Customization Event
+[2022.07.26-21.22.39:442][  0]LogSlate: Took 0.001141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.07.26-21.22.43:179][339]LogSlate: Window 'Message Log' being destroyed
+[2022.07.26-21.22.43:183][339]LogSlate: Window 'Message Log' being destroyed
+[2022.07.26-21.22.45:659][596]LogAssetEditorSubsystem: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/Developers/shouyu/NewSubScene/New_SubScene_Widget.New_SubScene_Widget
+[2022.07.26-21.22.45:660][596]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.26-21.22.45:666][596]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.26-21.22.45:671][596]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.07.26-21.22.45:788][596]LogEnum: Warning: Enum name collision: 'shooting_mode::NewEnumerator0' is in both '/VersatilePreviz/MocapTools/kyle/HZ_VCAM_Quicksetup/shooting_mode.shooting_mode' and '/Game/Developers/kyle/HZ_VCAM_Quicksetup/shooting_mode.shooting_mode'
+[2022.07.26-21.22.45:788][596]LogEnum: Warning: Enum name collision: 'shooting_mode::NewEnumerator1' is in both '/VersatilePreviz/MocapTools/kyle/HZ_VCAM_Quicksetup/shooting_mode.shooting_mode' and '/Game/Developers/kyle/HZ_VCAM_Quicksetup/shooting_mode.shooting_mode'
+[2022.07.26-21.22.45:788][596]LogEnum: Warning: Enum name collision: 'shooting_mode::shooting_MAX' is in both '/VersatilePreviz/MocapTools/kyle/HZ_VCAM_Quicksetup/shooting_mode.shooting_mode' and '/Game/Developers/kyle/HZ_VCAM_Quicksetup/shooting_mode.shooting_mode'
+[2022.07.26-21.22.45:788][596]LogEnum: Warning: Enum name collision: 'shooting_mode::NewEnumerator0' is in both '/VersatilePreviz/MocapTools/kyle/HZ_VCAM_Quicksetup/shooting_mode.shooting_mode' and '/Game/Developers/kyle/HZ_VCAM_Quicksetup/shooting_mode.shooting_mode'
+[2022.07.26-21.22.45:788][596]LogEnum: Warning: Enum name collision: 'shooting_mode::NewEnumerator1' is in both '/VersatilePreviz/MocapTools/kyle/HZ_VCAM_Quicksetup/shooting_mode.shooting_mode' and '/Game/Developers/kyle/HZ_VCAM_Quicksetup/shooting_mode.shooting_mode'
+[2022.07.26-21.22.46:627][596]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.26-21.22.46:627][596]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.26-21.22.46:680][596]LogSlate: Took 0.000987 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.26-21.22.46:713][596]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.07.26-21.22.47:072][629]LogAssetEditorSubsystem: Opening Asset editor for EditorUtilityBlueprint /Game/Developers/shouyu/NewSubScene/New_SubScene.New_SubScene
+[2022.07.26-21.22.47:073][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.26-21.22.47:721][630]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.26-21.22.49:973][842]BlueprintLog: New page: Compile New_SubScene
+[2022.07.26-21.22.50:023][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.07.26-21.22.50:802][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/shouyu/NewSubScene/New_SubScene" FILE="../../../../../plugins/MocapToolsHZ503/Content/Developers/shouyu/NewSubScene/New_SubScene.uasset" SILENT=true
+[2022.07.26-21.22.50:813][904]LogPackageLocalizationCache: Processed 57 localized package path(s) for 1 prioritized culture(s) in 0.011751 seconds
+[2022.07.26-21.22.50:819][904]LogSavePackage: Moving output files for package: /Game/Developers/shouyu/NewSubScene/New_SubScene
+[2022.07.26-21.22.50:820][904]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/New_SubSceneFD921D5440E29A574425FF84445C5678.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Developers/shouyu/NewSubScene/New_SubScene.uasset'
+[2022.07.26-21.22.50:836][904]AssetCheck: New page: Asset Save: New_SubScene
+[2022.07.26-21.22.50:836][904]LogContentValidation: Display: Validating EditorUtilityBlueprint /Game/Developers/shouyu/NewSubScene/New_SubScene.New_SubScene
+[2022.07.26-21.22.59:005][605]LogSlate: Window 'New_SubScene' being destroyed
+[2022.07.26-21.22.59:009][605]LogSlate: Window 'New_SubScene' being destroyed
+[2022.07.26-21.22.59:014][605]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.07.26-21.22.59:014][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.26-21.22.59:020][605]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.07.26-21.22.59:020][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.26-21.22.59:073][605]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.07.26-21.22.59:073][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.26-21.23.06:298][367]LogDerivedDataCache: //192.168.140.152/ddc: Maintenance finished in +00:00:33.038 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.26-21.23.07:261][474]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Test_Shouyu/TestSequence.TestSequence
+[2022.07.26-21.23.07:273][474]LogSceneOutliner: Outliner Column Spawnable does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.07.26-21.23.07:273][474]LogSceneOutliner: Outliner Column Sequence does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.07.26-21.24.51:924][ 97]LogSlate: Window 'Save Asset As' being destroyed
+[2022.07.26-21.25.37:529][803]LogBlueprintUserMessages: [New_SubScene_Widget_C_2] /Game/Test_Shouyu/Shot/Test
+[2022.07.26-21.25.40:869][ 37]LogSlate: Window 'New_SubScene_Widget' being destroyed
+[2022.07.26-21.25.40:873][ 37]LogSlate: Window 'New_SubScene_Widget' being destroyed
+[2022.07.26-21.25.44:925][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.07.26-21.25.47:237][329]LogSlate: Window 'Save Content' being destroyed
+[2022.07.26-21.25.47:310][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/Test/FX/Test_FX" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/Test/FX/Test_FX.uasset" SILENT=true
+[2022.07.26-21.25.47:310][329]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/Test/FX/Test_FX
+[2022.07.26-21.25.47:311][329]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/Test_FX5CEB89FE4690E9AF2BDD8E8856E5D9C8.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/Test/FX/Test_FX.uasset'
+[2022.07.26-21.25.47:311][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/Test/Layout/Test_Layout" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/Test/Layout/Test_Layout.uasset" SILENT=true
+[2022.07.26-21.25.47:311][329]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/Test/Layout/Test_Layout
+[2022.07.26-21.25.47:311][329]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/Test_Layout9E5888AA4F5ADCB00AC768ABBB07B370.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/Test/Layout/Test_Layout.uasset'
+[2022.07.26-21.25.47:312][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/Test/Lighting/Test_Lighting" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/Test/Lighting/Test_Lighting.uasset" SILENT=true
+[2022.07.26-21.25.47:312][329]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/Test/Lighting/Test_Lighting
+[2022.07.26-21.25.47:312][329]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/Test_LightingD6CE916A47B9EE9AB87B5CB63FB02C82.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/Test/Lighting/Test_Lighting.uasset'
+[2022.07.26-21.25.47:313][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/Test/Test_Shot" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/Test/Test_Shot.uasset" SILENT=true
+[2022.07.26-21.25.47:313][329]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/Test/Test_Shot
+[2022.07.26-21.25.47:313][329]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/Test_Shot997F870B414E1286B84D5B979ACA0D58.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/Test/Test_Shot.uasset'
+[2022.07.26-21.25.47:314][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/TestSequence" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/TestSequence.uasset" SILENT=true
+[2022.07.26-21.25.47:314][329]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/TestSequence
+[2022.07.26-21.25.47:315][329]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/TestSequenceED0EF6DA43A115FBCA66C1A2C3D6837F.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/TestSequence.uasset'
+[2022.07.26-21.25.47:337][329]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.26-21.25.47:337][329]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/Test/FX/Test_FX.Test_FX
+[2022.07.26-21.25.47:337][329]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/Test/Layout/Test_Layout.Test_Layout
+[2022.07.26-21.25.47:337][329]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/Test/Lighting/Test_Lighting.Test_Lighting
+[2022.07.26-21.25.47:337][329]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/Test/Test_Shot.Test_Shot
+[2022.07.26-21.25.47:337][329]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/TestSequence.TestSequence
+[2022.07.26-21.26.13:236][949]LogAssetEditorSubsystem: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/Developers/shouyu/NewSubScene/New_SubScene_Widget.New_SubScene_Widget
+[2022.07.26-21.26.13:237][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.26-21.26.13:262][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.26-21.26.13:697][949]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.26-21.26.13:697][949]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.26-21.28.04:465][793]BlueprintLog: New page: Compile New_SubScene_Widget
+[2022.07.26-21.28.04:525][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.07.26-21.28.05:132][816]LogSavePackage: Moving output files for package: /Game/Developers/shouyu/NewSubScene/New_SubScene_Widget
+[2022.07.26-21.28.05:133][816]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/New_SubScene_WidgetF6F3817B491A2FECE891AEB2147B5B2C.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Developers/shouyu/NewSubScene/New_SubScene_Widget.uasset'
+[2022.07.26-21.28.05:149][816]AssetCheck: New page: Asset Save: New_SubScene_Widget
+[2022.07.26-21.28.05:149][816]LogContentValidation: Display: Validating EditorUtilityWidgetBlueprint /Game/Developers/shouyu/NewSubScene/New_SubScene_Widget.New_SubScene_Widget
+[2022.07.26-21.28.20:527][713]LogBlueprintUserMessages: [New_SubScene_Widget_C_5] /Game/Test_Shouyu/Shot/tt
+[2022.07.26-21.28.20:529][713]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/Lighting/tt_Lighting
+[2022.07.26-21.28.20:588][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/tt/Lighting/tt_Lighting" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/Lighting/tt_Lighting.uasset" SILENT=true
+[2022.07.26-21.28.20:589][713]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/tt/Lighting/tt_Lighting
+[2022.07.26-21.28.20:590][713]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/tt_LightingFEC3251F497658F3EF3D5891CD09C322.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/Lighting/tt_Lighting.uasset'
+[2022.07.26-21.28.20:598][713]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/Lighting/tt_Lighting
+[2022.07.26-21.28.20:599][713]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/Layout/tt_Layout
+[2022.07.26-21.28.20:649][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/tt/Layout/tt_Layout" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/Layout/tt_Layout.uasset" SILENT=true
+[2022.07.26-21.28.20:649][713]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/tt/Layout/tt_Layout
+[2022.07.26-21.28.20:649][713]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/tt_Layout5ACFF43C4030A90DE6AB7BABA452E2F6.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/Layout/tt_Layout.uasset'
+[2022.07.26-21.28.20:676][713]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/Layout/tt_Layout
+[2022.07.26-21.28.20:677][713]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/FX/tt_FX
+[2022.07.26-21.28.20:732][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/tt/FX/tt_FX" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/FX/tt_FX.uasset" SILENT=true
+[2022.07.26-21.28.20:733][713]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/tt/FX/tt_FX
+[2022.07.26-21.28.20:733][713]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/tt_FXB8843A1443CAB1AAC88436946A2B67CE.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/FX/tt_FX.uasset'
+[2022.07.26-21.28.20:760][713]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/FX/tt_FX
+[2022.07.26-21.28.20:768][713]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.26-21.28.20:768][713]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/tt/FX/tt_FX.tt_FX
+[2022.07.26-21.28.20:768][713]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/tt/Layout/tt_Layout.tt_Layout
+[2022.07.26-21.28.20:768][713]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/tt/Lighting/tt_Lighting.tt_Lighting
+[2022.07.26-21.28.26:242][  9]LogSlate: Window 'New_SubScene_Widget' being destroyed
+[2022.07.26-21.28.26:246][  9]LogSlate: Window 'New_SubScene_Widget' being destroyed
+[2022.07.26-21.29.06:303][564]BlueprintLog: New page: Compile New_SubScene_Widget
+[2022.07.26-21.29.06:363][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.07.26-21.29.06:778][575]LogSavePackage: Moving output files for package: /Game/Developers/shouyu/NewSubScene/New_SubScene_Widget
+[2022.07.26-21.29.06:778][575]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/New_SubScene_Widget29D0993C4334D597AD3AF094DD6A4770.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Developers/shouyu/NewSubScene/New_SubScene_Widget.uasset'
+[2022.07.26-21.29.06:805][575]AssetCheck: New page: Asset Save: New_SubScene_Widget
+[2022.07.26-21.29.06:805][575]LogContentValidation: Display: Validating EditorUtilityWidgetBlueprint /Game/Developers/shouyu/NewSubScene/New_SubScene_Widget.New_SubScene_Widget
+[2022.07.26-21.29.17:984][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.07.26-21.29.19:281][211]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.26-21.29.19:323][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.07.26-21.29.19:358][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.07.26-21.29.19:395][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.07.26-21.29.22:356][376]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18418314611427863164
+[2022.07.26-21.29.22:357][376]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2022.07.26-21.29.28:971][742]LogBlueprintUserMessages: [New_SubScene_Widget_C_7] /Game/Test_Shouyu/Shot/abcv
+[2022.07.26-21.29.28:972][742]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/abcv/abcv_Shot
+[2022.07.26-21.29.29:038][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/abcv/abcv_Shot" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/abcv/abcv_Shot.uasset" SILENT=true
+[2022.07.26-21.29.29:039][742]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/abcv/abcv_Shot
+[2022.07.26-21.29.29:039][742]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/abcv_Shot7028122E46CD07279CEAF49B2655B386.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/abcv/abcv_Shot.uasset'
+[2022.07.26-21.29.29:046][742]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/abcv/abcv_Shot
+[2022.07.26-21.29.29:047][742]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/abcv/Lighting/abcv_Lighting
+[2022.07.26-21.29.29:098][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/abcv/Lighting/abcv_Lighting" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/abcv/Lighting/abcv_Lighting.uasset" SILENT=true
+[2022.07.26-21.29.29:098][742]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/abcv/Lighting/abcv_Lighting
+[2022.07.26-21.29.29:098][742]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/abcv_Lighting3C11A14D44B818C85D4629B4DC1AC3C9.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/abcv/Lighting/abcv_Lighting.uasset'
+[2022.07.26-21.29.29:112][742]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/abcv/Lighting/abcv_Lighting
+[2022.07.26-21.29.29:113][742]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/abcv/Layout/abcv_Layout
+[2022.07.26-21.29.29:177][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/abcv/Layout/abcv_Layout" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/abcv/Layout/abcv_Layout.uasset" SILENT=true
+[2022.07.26-21.29.29:177][742]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/abcv/Layout/abcv_Layout
+[2022.07.26-21.29.29:177][742]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/abcv_Layout437A03B7439CF66A83D05FB8843F3D32.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/abcv/Layout/abcv_Layout.uasset'
+[2022.07.26-21.29.29:184][742]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/abcv/Layout/abcv_Layout
+[2022.07.26-21.29.29:185][742]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/abcv/FX/abcv_FX
+[2022.07.26-21.29.29:238][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/abcv/FX/abcv_FX" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/abcv/FX/abcv_FX.uasset" SILENT=true
+[2022.07.26-21.29.29:239][742]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/abcv/FX/abcv_FX
+[2022.07.26-21.29.29:239][742]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/abcv_FX9F1B9726444B82689E8F1F8083CFBA2F.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/abcv/FX/abcv_FX.uasset'
+[2022.07.26-21.29.29:266][742]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/abcv/FX/abcv_FX
+[2022.07.26-21.29.29:274][742]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.26-21.29.29:274][742]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/abcv/FX/abcv_FX.abcv_FX
+[2022.07.26-21.29.29:274][742]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/abcv/Layout/abcv_Layout.abcv_Layout
+[2022.07.26-21.29.29:274][742]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/abcv/Lighting/abcv_Lighting.abcv_Lighting
+[2022.07.26-21.29.29:274][742]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/abcv/abcv_Shot.abcv_Shot
+[2022.07.26-21.29.31:995][899]LogSlate: Window 'New_SubScene_Widget' being destroyed
+[2022.07.26-21.29.32:003][899]LogSlate: Window 'New_SubScene_Widget' being destroyed
+[2022.07.26-21.29.35:690][ 98]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.07.26-21.29.35:690][ 98]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.07.26-21.46.48:007][491]LogSavePackage: Moving output files for package: /Game/Developers/shouyu/NewSubScene/New_SubScene_Widget
+[2022.07.26-21.46.48:008][491]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/New_SubScene_Widget70A5B08D4531FC6BEB11619F2C254BB9.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Developers/shouyu/NewSubScene/New_SubScene_Widget.uasset'
+[2022.07.26-21.46.48:033][491]AssetCheck: New page: Asset Save: New_SubScene_Widget
+[2022.07.26-21.46.48:033][491]LogContentValidation: Display: Validating EditorUtilityWidgetBlueprint /Game/Developers/shouyu/NewSubScene/New_SubScene_Widget.New_SubScene_Widget
+[2022.07.26-21.46.56:480][994]LogBlueprintUserMessages: [New_SubScene_Widget_C_8] /Game/Test_Shouyu/Shot/tt
+[2022.07.26-21.46.56:481][994]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/tt_Shot
+[2022.07.26-21.46.56:541][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/tt/tt_Shot" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/tt_Shot.uasset" SILENT=true
+[2022.07.26-21.46.56:542][994]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/tt/tt_Shot
+[2022.07.26-21.46.56:542][994]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/tt_Shot4F773AF7483AD554DBA4F39E83261570.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/tt_Shot.uasset'
+[2022.07.26-21.46.56:561][994]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/tt_Shot
+[2022.07.26-21.46.56:562][994]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/Lighting/tt_Lighting
+[2022.07.26-21.46.56:610][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/tt/Lighting/tt_Lighting" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/Lighting/tt_Lighting.uasset" SILENT=true
+[2022.07.26-21.46.56:611][994]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/tt/Lighting/tt_Lighting
+[2022.07.26-21.46.56:611][994]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/tt_Lighting40DB04C841B8F60500D524956245C9FD.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/Lighting/tt_Lighting.uasset'
+[2022.07.26-21.46.56:619][994]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/Lighting/tt_Lighting
+[2022.07.26-21.46.56:620][994]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/Layout/tt_Layout
+[2022.07.26-21.46.56:668][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/tt/Layout/tt_Layout" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/Layout/tt_Layout.uasset" SILENT=true
+[2022.07.26-21.46.56:669][994]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/tt/Layout/tt_Layout
+[2022.07.26-21.46.56:669][994]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/tt_Layout13F957604B54A9EB366415B75F314F10.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/Layout/tt_Layout.uasset'
+[2022.07.26-21.46.56:694][994]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/Layout/tt_Layout
+[2022.07.26-21.46.56:695][994]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/FX/tt_FX
+[2022.07.26-21.46.56:750][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_Shouyu/Shot/tt/FX/tt_FX" FILE="../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/FX/tt_FX.uasset" SILENT=true
+[2022.07.26-21.46.56:751][994]LogSavePackage: Moving output files for package: /Game/Test_Shouyu/Shot/tt/FX/tt_FX
+[2022.07.26-21.46.56:751][994]LogSavePackage: Moving '../../../../../plugins/MocapToolsHZ503/Saved/tt_FX29EA71124405E286663CD6A7099CC58E.tmp' to '../../../../../plugins/MocapToolsHZ503/Content/Test_Shouyu/Shot/tt/FX/tt_FX.uasset'
+[2022.07.26-21.46.56:779][994]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test_Shouyu/Shot/tt/FX/tt_FX
+[2022.07.26-21.46.56:788][994]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.26-21.46.56:788][994]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/tt/FX/tt_FX.tt_FX
+[2022.07.26-21.46.56:788][994]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/tt/Layout/tt_Layout.tt_Layout
+[2022.07.26-21.46.56:788][994]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/tt/Lighting/tt_Lighting.tt_Lighting
+[2022.07.26-21.46.56:788][994]LogContentValidation: Display: Validating LevelSequence /Game/Test_Shouyu/Shot/tt/tt_Shot.tt_Shot
+[2022.07.26-21.46.58:272][ 81]LogSlate: Window 'New_SubScene_Widget' being destroyed
+[2022.07.26-21.46.58:281][ 81]LogSlate: Window 'New_SubScene_Widget' being destroyed

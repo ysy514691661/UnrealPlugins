@@ -1,0 +1,8 @@
+{
+	"BuildId": "Versatile.InternalVersion-5.0",
+	"Modules": 
+	{
+		"OptitrackNatnet": "UnrealEditor-OptitrackNatnet.dll",
+		"OptitrackNatnetEditor": "UnrealEditor-OptitrackNatnetEditor.dll"
+	}
+}

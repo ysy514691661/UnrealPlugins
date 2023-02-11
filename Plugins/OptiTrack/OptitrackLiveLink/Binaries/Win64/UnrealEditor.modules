@@ -1,0 +1,7 @@
+{
+	"BuildId": "Versatile.InternalVersion-5.0",
+	"Modules": 
+	{
+		"OptitrackLiveLink": "UnrealEditor-OptitrackLiveLink.dll"
+	}
+}

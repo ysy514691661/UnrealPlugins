@@ -1,0 +1,58 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "Versatile.InternalVersion-5.0",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "VersatilePreviz",
+			"Enabled": true
+		},
+		{
+			"Name": "VersatileEngineExtender",
+			"Enabled": true
+		},
+		{
+			"Name": "VersatileLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "VersatilePipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "ACLookdevTools",
+			"Enabled": true,
+			"MarketplaceURL": " "
+		},
+		{
+			"Name": "VersatileOverride",
+			"Enabled": true
+		},
+		{
+			"Name": "QTMConnect",
+			"Enabled": true,
+			"MarketplaceURL": "https://github.com/qualisys/Qualisys-Unreal-Plugin"
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
+		},
+		{
+			"Name": "RemoteControlProtocolOSC",
+			"Enabled": true
+		},
+		{
+			"Name": "VirtualCamera",
+			"Enabled": true
+		}
+	]
+}
